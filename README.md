@@ -1,3 +1,3 @@
-# MyBlog
+# MyScience
 
-Site: https://hgy3.github.io/MyBlog/
+Site: https://hgy3.github.io/MyScience/
