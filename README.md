@@ -18,3 +18,12 @@ https://github.com/HGY3/MyScience
 https://github.com/darsaveli/Readme-Markdown-Syntax
 
 https://github.com/ikatyang/emoji-cheat-sheet
+
+
+徽标添加
+
+https://app.travis-ci.com/account/repositories
+
+https://shields.io/
+
+https://about.codecov.io/
