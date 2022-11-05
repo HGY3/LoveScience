@@ -6,11 +6,7 @@
 
 :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart:
 
-# Python Language
+# Algorithm
 
-The website is mainly for demonstrating the essence and beauty of scicence from my perspective. Thanks for your attention.
-
-https://hgy3.github.io/MyScience/
-
-https://github.com/HGY3/MyScience
+## Genetic Algorithm
 

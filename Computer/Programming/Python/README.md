@@ -6,11 +6,14 @@
 
 :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart:
 
-# R Language
+# Python Language
 
-The website is mainly for demonstrating the essence and beauty of scicence from my perspective. Thanks for your attention.
+https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
 
-https://hgy3.github.io/MyScience/
 
-https://github.com/HGY3/MyScience
+
+## Python问题集锦
+https://www.coder.work/article/2027140
+
+https://blog.csdn.net/weixin_43742184/article/details/105533041
 
