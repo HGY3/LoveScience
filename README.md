@@ -12,6 +12,8 @@ The website is mainly for demonstrating the essence and beauty of scicence from 
 
 https://hgy3.github.io/MyScience/
 
+https://hgy.gitbook.io/the-beauty-of-science/
+
 https://github.com/HGY3/MyScience
 
 - [Book](#1)
